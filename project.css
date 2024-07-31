@@ -1,0 +1,176 @@
+body{
+background-color: rgba(0, 0, 0, 0.89);
+background-size: 100vh;
+}
+fieldset{
+width: 200px;
+height: 400px;
+margin: 100px 0 100px 550px;
+align-items: center;
+padding: 10px 0 0 30px;
+
+}
+
+.b{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: x-large;
+text-align: center;
+margin:20px 0 0 -25px;
+}
+.divv{
+
+
+}
+.forget{
+color: aliceblue;
+text-decoration: none;
+
+
+}
+.forgetf{
+    color: aliceblue;
+    text-decoration: none;
+    font-size: small;
+}
+.login{
+
+text-decoration: none;
+    width: 175px;
+    font-weight: 800;
+    font-size:medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(13, 139, 241);
+color: aliceblue;
+height: 30px;
+
+}
+.logg{
+color: aliceblue;
+font-size: small;
+text-decoration: none;
+}
+.button{
+    background-color: rgb(56, 94, 201);
+
+    color: aliceblue;
+    text-decoration: none;
+position: relative;
+height: 30px;
+width: 90px;}
+.buttonn{
+    color: aliceblue;
+    background-color: rgb(150, 35, 144);
+    width: 90px;
+    position: absolute;
+    height: 30px;
+}
+.forgett{
+
+    color: rgb(85, 109, 247);
+    text-decoration: none;
+    position: absolute;
+    font-size: 13px;
+}
+.logg{
+    position: relative;
+    text-align: center;
+}
+.loggz{
+    color: aliceblue;
+    text-align: center;
+    margin: 0 0 0 -30px ;
+
+}
+.input{
+    width:160px;
+    position: relative;
+    height: 25px;
+}
+
+.ff{
+    width: 330px;
+    height: 830px;
+margin: 100px 0 100px 500px;
+align-items: center;
+padding: 10px 0 0 30px;
+}
+.divinfo{
+    margin: 0 0 0 -25px;
+}
+.sign{
+    text-align: center;
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+}
+
+.label{
+    color: aliceblue;
+    
+}
+.inputt{
+    position: absolute;
+    width: 160px;
+    margin: 0 0 0 10px;
+    height: 25px;
+}
+.cc{
+    width: 340px;
+    height: 25px;
+
+}
+.labell{
+    color: aliceblue;
+    margin: 0 0 0 30px;
+}
+.emaill{
+
+    width:340px ;
+    height: 25px;
+}
+.year{
+    width: 150px;
+    height: 25px;
+}
+.sell{
+
+    width:80px ;
+    height: 30px;
+}
+.sel{
+    width: 100px;
+    height: 30px;
+}
+
+.gender{
+    color: aliceblue;
+    font-weight: 800;
+font-size:large;}
+.genderr{
+    color: aliceblue;
+    font-size: large;
+    margin: 0 0 0 3px;
+    font-weight: 800;
+
+}
+.genderm{
+    margin:0 0 0 130px ;
+}
+.divg{
+margin: 0 0 0 22px;
+
+}
+.nn{
+    margin: 0 0 0 130px;
+    width: 80px;
+    height: 25px;
+}
+.new{
+    color: rgb(117, 117, 214);
+    font-size: medium;
+    font-weight: bold;
+
+text-decoration: none;
+}
+
+
